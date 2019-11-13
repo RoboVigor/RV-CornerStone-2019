@@ -20,6 +20,12 @@ CornerStone 简洁、高效，我们相信它值得被拿来向世人展示。
 
 RoboVigor 2019
 
+## 贡献者
+
+@tccoin 武军哲
+@RoboVigor 机械组全员
+@RoboVigor 运营组全员
+
 ---
 
 ♫

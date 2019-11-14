@@ -24,6 +24,7 @@ RoboVigor 2019
 
 - [@tccoin](https://github.com/tccoin) 武军哲
 - [@ChetYoung](https://github.com/ChetYoung) 杨恒
+- [@sleepymemory](https://github.com/sleepymemory) 过程
 - @RoboVigor 机械组全员
 - @RoboVigor 运营组全员
 

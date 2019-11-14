@@ -23,6 +23,7 @@ RoboVigor 2019
 ## 贡献者
 
 - [@tccoin](https://github.com/tccoin) 武军哲
+- [@ChetYoung](https://github.com/ChetYoung) 杨恒
 - @RoboVigor 机械组全员
 - @RoboVigor 运营组全员
 

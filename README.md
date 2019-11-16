@@ -26,6 +26,7 @@ RoboVigor 2019
 - [@ChetYoung](https://github.com/ChetYoung) 杨恒
 - [@sleepymemory](https://github.com/sleepymemory) 过程
 - [@kkkevinxu](https://github.com/kkkevinxu) 徐沛锋
+- [@realcjw](https://github.com/realcjw) 曹吉文
 - @RoboVigor 机械组全员
 - @RoboVigor 运营组全员
 
